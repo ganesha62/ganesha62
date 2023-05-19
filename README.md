@@ -1,5 +1,7 @@
 ### Hi there 👋
-
+- 🔭 I’m currently working on Natural Language Processing
+- 🌱 I’m currently learning Machine Learning
+- 📫 How to reach me: https://www.linkedin.com/in/ganesharam2003 on LINKEDIN
 <!--
 **ganesha62/ganesha62** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
